@@ -114,9 +114,12 @@ $$y_i = \arg\max \; \text{softmax}(W_{\text{vocab}} \cdot h_i)$$
 onde $h_i$ é o vetor de saída do Decoder no passo $i$, condicionado em
 $y_1, \ldots, y_{i-1}$.
 
+IA's generativas **(claude e gpt)** foram consultadas para a realização deste trabalho
 ---
-
+ 
 ## Referências
 
 - Vaswani et al. (2017). *Attention Is All You Need*. NeurIPS.
 - Notas de aula — Prof. Dimmy Magalhães, iCEV 2026.1
+---
+IA's generativas **(claude e gpt)** foram consultadas para a realização deste trabalho
